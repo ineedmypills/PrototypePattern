@@ -1,0 +1,3 @@
+C:/Users/ineed/CLionProjects/PrototypePattern/cmake-build-debug/CMakeFiles/PrototypePattern.dir
+C:/Users/ineed/CLionProjects/PrototypePattern/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ineed/CLionProjects/PrototypePattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+# ninja log v6
+2	1192	7669504230771661	CMakeFiles/PrototypePattern.dir/main.cpp.obj	1b079df54bec9cde
+1193	1313	7669504242659580	PrototypePattern.exe	13cc875073fdbc17
+4	2264	7669504904850438	CMakeFiles/PrototypePattern.dir/main.cpp.obj	1b079df54bec9cde
+2266	2397	7669504927448751	PrototypePattern.exe	13cc875073fdbc17
+4	2335	7669505586298433	CMakeFiles/PrototypePattern.dir/main.cpp.obj	1b079df54bec9cde
+2335	2459	7669505609611843	PrototypePattern.exe	13cc875073fdbc17
+6	2349	7669507939552714	CMakeFiles/PrototypePattern.dir/main.cpp.obj	1b079df54bec9cde
+2349	2460	7669507962971968	PrototypePattern.exe	13cc875073fdbc17
+4	2428	7669509864988321	CMakeFiles/PrototypePattern.dir/main.cpp.obj	1b079df54bec9cde
+2429	2564	7669509889232634	PrototypePattern.exe	13cc875073fdbc17
